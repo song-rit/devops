@@ -17,4 +17,4 @@ create table people (
 
 INSERT INTO example_db.people
 (`ref`,title,first_name,last_name,citizen_id,birthday,email,mobile_no,create_date,update_date)
-VALUES ('REF1234567890','Mr.','song','cpe','11111111111','1999-01-01','song.cpe@mail.com','0800000000','2021-01-01 00:00:00','2021-01-01 00:00:00')
+VALUES ('REF1234567890','Mr.','song','cpe','11111111111','1999-01-01','song.cpe@gmail.com','0800000000','2021-01-01 00:00:00','2021-01-01 00:00:00')
