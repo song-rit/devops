@@ -1,4 +1,4 @@
-iversion: "2.1"
+version: "2.1"
 services:
   transmission:
     image: ghcr.io/linuxserver/transmission
